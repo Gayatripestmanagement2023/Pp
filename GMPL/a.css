@@ -1,0 +1,239 @@
+body
+{
+    font-style: normal;
+background-color: white;
+}
+
+
+#menu
+{
+<!-- background: rgba(0,0,0,0.5); -->
+color:white;
+background:linear-gradient(rgb(57, 57, 237),red);
+text-align:right;
+
+}
+
+#mymenu ul li:hover
+{
+background:greenyellow;
+
+}
+
+#mymenu ul li
+{
+
+display: inline-block ;
+padding:10;
+margin-left: 50px;
+
+color:white;
+
+}
+.A
+{
+color:white;
+text-decoration: none;
+}
+table
+{
+background: rgba(0,0,0,0.5);
+color:rgb(213, 31, 31);
+margin-top: 10px;
+
+width: 1120;
+height: 200;
+box-shadow: 10px 10px 10px 10px white;
+}
+
+.B
+{
+
+width: 85px;
+height: 40px;
+background:green;
+color: white;
+border-radius: 0px 40px 0px 40px;
+}
+
+.c
+{
+width: 200px;
+height: 100px;
+}
+.B:hover
+{
+width: 85px;
+height: 40px;
+background: linear-gradient(to right,black,red);
+color:white;
+border-radius: 40px,0px,40px,0px;
+
+}
+
+.A
+{
+color:black;
+background-color: ;
+text-decoration:none;
+}
+
+.ser
+{
+    color:red;
+background-color: ;
+text-decoration:none;
+}
+
+.F
+{
+color:blue;
+background-color:;
+text-decoration:none;
+}
+.F:hover
+{
+    background-color:aqua;
+ 
+}
+
+.D
+{
+width: 372px;
+height: 340px;
+box-shadow: 10px 10px 10px 10px linear-gradient(rgb(57, 57, 237),red);
+
+background:linear-gradient(rgb(57, 57, 237),red);
+}
+
+.D:hover
+{
+width: 370px;
+height: 300px;
+background: linear-gradient(to right,black,red);
+color:white;
+border-style: dashed;
+
+
+}
+.l
+{
+    float: left;
+    width: 1500px;
+    height: 160px;
+    box-shadow: 10px 10px 10px goldenrod;
+}
+.l:hover
+{
+   
+}
+.G
+{
+
+    margin-left: 1500;
+    align-items:end;
+    margin-top: 0;
+    width: 180px;
+    height: 180px;
+    box-shadow: 10px 10px 10px yellowgreen;
+}
+#A
+{
+color:aqua;
+text-decoration: none;
+}
+.p
+{
+
+    width: 300;
+    height: 200;
+}
+.p:hover
+{
+margin-left: auto;
+box-shadow: 10px 10px 10px 10px yellowgreen;
+border-radius: 20px;
+
+}
+.w
+{
+    box-shadow: 10px 10px 10px greenyellow;
+
+width: 150;
+height: 150;
+}
+.w:hover
+{
+    box-shadow: 10px 10px 10px red; 
+}
+
+.y{
+    box-shadow: 10px 10px 10px greenyellow;
+
+width: 150;
+height: ; ;
+float: ;
+}
+
+.y:hover
+{
+    box-shadow: 10px 10px 10px red; 
+}
+
+.s
+{
+box-shadow: 10px 10px 10px greenyellow;
+width: 300;
+    height: 300;
+    border-radius: 20px;
+}
+.s:hover
+{
+    box-shadow: 10px 10px 10px red;
+
+}
+.at
+{
+    box-shadow: 10px 10px 10px goldenrod;
+
+    width: 170;
+height:160 ; 
+}
+
+
+
+.E
+{
+
+    width: 1700px;
+    height: 50px;
+background:linear-gradient(yellow,green);
+color: white;
+align:left;
+border-radius: 0px 40px o px 40px;
+}
+
+.left-image {
+    float: right;
+    height: 180px;
+    
+    margin-right: 0px; /* Optional: To add some space between the images */
+}
+footer {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.footer-content {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/* Style the links in the footer */
+.footer-content a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+}
